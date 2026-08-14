@@ -1,0 +1,11 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Elliotx15 – 博客</title><link>https://elliotx15.github.io/blog/</link><description>Recent content in 博客 on Elliotx15</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>elliot.liang@icloud.com (Elliot Liang)</managingEditor><webMaster>elliot.liang@icloud.com (Elliot Liang)</webMaster><atom:link href="https://elliotx15.github.io/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello, World</title><link>https://elliotx15.github.io/blog/hello-world/</link><pubDate>Tue, 28 Jul 2026 00:00:00 +0800</pubDate><author>elliot.liang@icloud.com (Elliot Liang)</author><guid>https://elliotx15.github.io/blog/hello-world/</guid><description>
+&lt;h2&gt;第一篇博客&lt;span class="hx:absolute hx:-mt-20" id="第一篇博客"&gt;&lt;/span&gt;
+&lt;a href="#%e7%ac%ac%e4%b8%80%e7%af%87%e5%8d%9a%e5%ae%a2" class="subheading-anchor" aria-label="此章节的永久链接"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;这是博客的第一篇文章。这里用来记录我日常的学习笔记、踩过的坑、以及一些零散的想法。&lt;/p&gt;
+&lt;h3&gt;关于这个站点&lt;span class="hx:absolute hx:-mt-20" id="关于这个站点"&gt;&lt;/span&gt;
+&lt;a href="#%e5%85%b3%e4%ba%8e%e8%bf%99%e4%b8%aa%e7%ab%99%e7%82%b9" class="subheading-anchor" aria-label="此章节的永久链接"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;使用 &lt;strong&gt;Hugo&lt;/strong&gt; 与 &lt;strong&gt;Hextra&lt;/strong&gt; 主题构建，托管在 &lt;strong&gt;GitHub Pages&lt;/strong&gt;。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;内容以中文为主&lt;/li&gt;
+&lt;li&gt;记录技术学习与思考&lt;/li&gt;
+&lt;li&gt;偶尔会有随笔&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Hello, World。&lt;/p&gt;</description></item></channel></rss>
